@@ -1,4 +1,4 @@
-<img width="942" height="229" alt="image" src="https://github.com/user-attachments/assets/4e9d2578-f739-4150-9b87-b854ef8e990f" /># 🖐IMC_Python-Basic-Level-
+# 🖐IMC_Python-Basic-Level-
 
 ## Objetivo do projeto:
 Objetivo do projeto é criar um código que calcula o IMC das pessoas, ajudando a compreender lógica de programação.
